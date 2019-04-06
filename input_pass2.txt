@@ -1,0 +1,16 @@
+START 0 
+USING *,15 
+SR 4,ID#2 
+SR 5,ID#2 
+L 3,LT#1 
+L 2,ID#4 
+A 2,LT#2 
+ST 2,ID#6 
+A 4,LT#3 
+LA 1,ID#5 
+BNE ID#3 
+BR 14 
+DC F’34’ 
+DC F’8’ 
+DS 10F 
+END 
