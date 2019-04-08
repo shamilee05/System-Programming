@@ -26,4 +26,4 @@ which are as shown below:
 
 ![image alt](https://github.com/shamilee05/System-Programming/blob/master/2-Pass%20Assembler/Assembler.png)
 
-*The program uses bubble sort to sort the MOT and POT, binary search to search through the MOT and POT and linear search to search through the Symbol table and Literal table*
+*The program uses bubble sort to sort the MOT and POT, binary search to search through the MOT and POT and linear search to search through the Symbol table and Literal table.*
