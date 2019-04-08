@@ -32,10 +32,10 @@ which are as shown below:
 
 ### 2. Macro Processor:
 * A macro processor works in conjunction with the assembler and basically processes macros. It works in 2 passes wherein-
- * During the first pass, it stores the definitions of all the macros.
- * During the second pass, it recognizes and replaces all the macro calls with their respective definitions.
+  * During the first pass, it **stores the definitions** of all the macros.
+  * During the second pass, it **recognizes and replaces all the macro calls** with their **respective definitions**.
  
-The program works for all types of arguments - positional, keyword and default. Instances of how it works in these different cases are as shown below (Also shown are the contents of the various data structures used in the process like the MNT, MDT and the ALA for each of the macros):
+The program works for all types of arguments - **positional, keyword and default**. Instances of how it works in these different cases are as shown below *(Also shown are the contents of the various data structures used in the process like the MNT, MDT and the ALA for each of the macros):
 
  1. Positional arguments:
  
